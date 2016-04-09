@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BA64C4051CB9CC2900243F9E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BA64C3FE1CB9CC1300243F9E = {
+			isa = PBXGroup;
+			children = (
+				BA64C4051CB9CC2900243F9E /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BA64C3FF1CB9CC1300243F9E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = BA64C4021CB9CC1300243F9E /* Build configuration list for PBXProject "BrighHorizon" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BA64C3FE1CB9CC1300243F9E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BA64C4031CB9CC1300243F9E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BA64C4041CB9CC1300243F9E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BA64C4021CB9CC1300243F9E /* Build configuration list for PBXProject "BrighHorizon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA64C4031CB9CC1300243F9E /* Debug */,
+				BA64C4041CB9CC1300243F9E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BA64C3FF1CB9CC1300243F9E /* Project object */;
+}

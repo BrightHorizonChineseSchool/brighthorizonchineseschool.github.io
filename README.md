@@ -1,2 +1,3 @@
 # brighthorizonchineseschool.github.io
-Jekyll site for the school
+
+Website site for the school
